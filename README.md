@@ -1,6 +1,9 @@
 # Este es un ejemplo de interfaz de usuario para el Contacto con una Página Web
 
-Es ejemplo fue realizado con la finalidad de desarrollar habilidades en el diseño de interfaces aplicadas al desarrollo front-end.
+Este ejemplo fue realizado con la finalidad de desarrollar mis habilidades en el diseño de interfaces aplicadas al desarrollo front-end.
+
+El ejemplo desarrollado fue uno de los cuantos retos de programación encontrados en la pagina
+https://app.bigdevsoon.me/
 
 ## Tecnologías utilizadas
 
